@@ -6,9 +6,11 @@ Welcome to the International Debt Analysis project! In this repository, we will 
 
 The dataset we'll be working with contains information on the amount of debt (in USD) owed by developing countries across different categories. We will explore and answer important questions such as:
 
-Total Debt: What is the overall amount of debt owed by the countries listed in the dataset?
-Largest Debt Holder: Which country holds the highest amount of debt, and what is the specific value?
-Average Debt: What is the average amount of debt owed by countries across different debt indicators?
+*Total Debt:* What is the overall amount of debt owed by the countries listed in the dataset?<br>
+
+*Largest Debt Holder:* Which country holds the highest amount of debt, and what is the specific value?<br>
+
+*Average Debt:* What is the average amount of debt owed by countries across different debt indicators?
 
 ## **Contributing**
 
